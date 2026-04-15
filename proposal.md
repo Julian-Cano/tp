@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51136 - Cano, Julián
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
