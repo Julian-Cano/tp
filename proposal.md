@@ -3,6 +3,7 @@
 ## Grupo
 ### Integrantes
 * 51136 - Cano, Julián
+* 48077 - Croci, Juan Ignacio
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
