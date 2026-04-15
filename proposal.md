@@ -28,7 +28,7 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Cliente<br>2. CRUD Proveedor<br>3. CRUD Tipo_producto<br>4. CRUD Marca<br>5. CRUD Tag|
+|CRUD simple|1. CRUD Cliente<br>2. CRUD Proveedor<br>3. CRUD Tipo_producto<br>4. CRUD Marca|
 |CRUD dependiente|1. CRUD Producto {depende de} CRUD Tipo_producto + CRUD Proveedor<br>2. CRUD Descuento {depende de} CRUD Producto<br>3. CRUD Favoritos {depende de} CRUD xxx|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Hacer pedido (carrito)<br>2. Entregar/cancelar pedido|
@@ -38,7 +38,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Cliente<br>2. CRUD Proveedor<br>3. CRUD Tipo_producto<br>4. CRUD Marca<br>5. CRUD Tag|
-|CUU/Epic|3. Pago<br>4. Reseña de producto|
+|CUU/Epic|1. Hacer pedido (carrito)<br>2. Entregar/cancelar pedido<br>3. Pago<br>4. Reseña de producto|
 
 
 ### Alcance Adicional Voluntario
