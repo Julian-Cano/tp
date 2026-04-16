@@ -50,8 +50,8 @@ Adicionales para Aprobación
 
 _Nota_: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
-| Req      | Detalle                                                                                                                                                                                                             |
-| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Listados | 1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes |
-| CUU/Epic | 1. Consumir servicios<br>2. Cancelación de reserva                                                                                                                                                                  |
-| Otros    | 1. Envío de recordatorio de reserva por email                                                                                                                                                                       |
+| Req      | Detalle                                                                                                                                                                                                                   |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Listados | 1. Listado de productos filtrado por tipo de producto, marca y rango de precio, muestra nombre, marca, precio y disponibilidad (en stock / sin stock) ⇒ detalle muestra información completa del producto + CRUD Producto |
+| CUU/Epic | 1. Consumir servicios<br>2. Cancelación de reserva                                                                                                                                                                        |
+| Otros    | 1. Envío de recordatorio de reserva por email                                                                                                                                                                             |
