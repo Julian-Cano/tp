@@ -17,42 +17,19 @@
 
 ## Tema
 
+**_Nombre:_** Entreno2.0
+
 ### Descripción
 
-_2 a 6 líneas describiendo el negocio (menos es más)_
+_Entreno2.0 es una plataforma de venta de artículos de gimnasio y entrenamiento: Suplementos, accesorios y mucho más! Registrate, armá tu pedido y disfrutá el ejercicio con todo!_
 
 ### Modelo
 
-![imagen del modelo]()
-
-_Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+[Imagen del modelo](https://drive.google.com/file/d/1IFZUrqD7l6zfVw1cLKX7Z9dRzmr3qOQk/view?usp=sharing)
 
 ## Alcance Funcional
 
 ### Alcance Mínimo
-
-_Nota_: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El
-
-##### CRUD SIMPLE:
-
-- marca
-- proveedor
-- tipo_producto
-- cliente (c/ usuario)
-- tag
-
-##### CRUD DEPENDIENTE:
-
-- producto
-- descuento
-- favoritos (sirve p/ listado)
-
-##### CUU/EPIC:
-
-- hacer pedido (carrito)
-- entregar/cancelar pedido
-- pago
-- reseña producto
 
 Regularidad:
 |Req|Detalle|
