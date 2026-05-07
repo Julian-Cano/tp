@@ -12,7 +12,7 @@
 ### Repositorios
 
 - [frontend app](http://hyperlinkToGihubOrGitlab)
-- [backend app](http://hyperlinkToGihubOrGitlab)
+- [backend app](https://github.com/JuaniCroci/Backend-TP-DSW)
   _Nota_: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
